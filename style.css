@@ -23,11 +23,5 @@ body {
     right: 20px;
     font-size: 20px;
   }
-  .balloon {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 120px;
-    opacity: 0;
-  }
+  
   
